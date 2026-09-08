@@ -1,7 +1,0 @@
-#VARIABLES: A LABEL THAT CONTAINS SOMETHING
-
-name = "Aaron"  # The variable to use instead of changing the names one by one
-
-print("My name is", name)
-print(name, "is learning Python")
-print(name, "wants to become a python expert")
