@@ -20,3 +20,7 @@ print(stamp.split("-"))
 
 csv_file = "1234, Max, India, 09/16/2026, M"
 print (csv_file.split(","))
+
+#multiplyers
+
+print("ha" * 3)

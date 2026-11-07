@@ -7,10 +7,10 @@ print(abs(2 - 9)) #returns the absolute values of the sum (non-negative)
 
 import math
 price = 27.954263
-print(round(price))
+print(round(price)) #good for dataengineering to save space
 print(round(price, 2))
 print(math.floor(price))
-print(math.ceil(price))
+print(math.ceil(price))# splits data into batches and pages
 print(math.trunc(price))
 
 #can also use

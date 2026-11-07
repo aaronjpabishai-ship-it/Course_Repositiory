@@ -1,10 +1,10 @@
 #STRING FUNCTION ||  MATH
 #len()
-# password = "123f5589674"
-# print(len(password))
+password = "123f5589674"
+print(len(password))
 
-# if len(password) < 5:
-#     print("Password is too short")
+if len(password) < 5:
+    print("Password is too short")
 
 
 # count()
@@ -13,4 +13,4 @@ Python is easy to learn.
 Python is case-sensitive.
 i will master python.
 """
-print(text.count("python")) 
+print(text.count("python"))  # will count exactly what you ask for as Python is Case sensitive

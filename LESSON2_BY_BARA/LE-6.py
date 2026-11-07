@@ -17,7 +17,7 @@ text = "PHOTOGRAPHY"
 print(len(text)) #will calculate the length of the string including the whitespace
 print(len(text.strip())) #will remove the whitespace and calculate the length of the string
 
-#### professionally check if your dtata has any white spaces
+#### professionally check if your data has any white spaces
 nr_of_whtspaces = len(text) - len(text.strip())
 is_clean =  len(text) == len(text.strip())
 print(nr_of_whtspaces)

@@ -28,7 +28,8 @@
 # name = first_name + " " + last_name
 # print(name)
 
-folder = "F:/Users/aaronabishai/"
-file =  "data.json"
-full_file_path = folder + file
-print(full_file_path)
+# folder = "F:/Users/aaronabishai/"
+# file =  "data.json"
+# full_file_path = folder + file
+# print(full_file_path)
+
