@@ -6,4 +6,4 @@ print( 4 < 8 and 70 > 62)
 
 cpu_usage = 80
 memory_usage = 60
-print (cpu_usage > 90 and memory_usage > 90 )
+print (cpu_usage > 90 and memory_usage > 90 
