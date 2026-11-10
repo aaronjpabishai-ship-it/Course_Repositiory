@@ -14,3 +14,4 @@ print(isinstance(123, int))
 print(isinstance(False, str))
 
 print("hello".endswith("o"))
+print("hello".startswith("h"))
